@@ -11,7 +11,7 @@
         "laravel-vite-plugin": "^0.8.0",
         "sass": "^1.69.4",
         "sass-loader": "^13.3.2",
-        "vite": "^4.0.0"
+        "vite": "^4.5.1"
     },
     "dependencies": {
         "@mdi/svg": "^7.3.67",
